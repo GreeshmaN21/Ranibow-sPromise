@@ -1,0 +1,22 @@
+header{
+    background-color: rgb(182, 179, 180);
+}
+span{
+    font-family: cursive;
+    font-size: xx-large;
+    font-weight: bolder;
+    padding-left: 20px;
+    color: rgb(209, 59, 53);
+}
+section{
+    background-color: #cafafa;
+}
+.logo{
+    height:100px;
+}
+.py-10 {
+    padding-top: 1.5rem;
+}
+footer{
+    background-color: rgb(182, 179, 180); 
+}

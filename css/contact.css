@@ -1,0 +1,17 @@
+
+.logo{
+    height:100px;
+}
+header{
+    background-color: rgb(182, 179, 180);
+}
+span{
+    font-family: cursive;
+    font-weight: bolder;
+    padding-left: 20px;
+    color: rgb(209, 59, 53);
+    font-size: xx-large;
+}
+footer{
+    background-color: rgb(182, 179, 180); 
+}
